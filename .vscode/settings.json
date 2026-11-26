@@ -1,0 +1,3 @@
+{
+    "window.title": "oracle-guard - ${activeRepositoryBranchName}${separator}${activeEditorShort}${dirty}"
+}
